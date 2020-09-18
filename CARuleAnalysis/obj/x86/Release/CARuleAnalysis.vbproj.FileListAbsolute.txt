@@ -1,0 +1,12 @@
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\bin\Release\CARuleAnalysis.exe
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\bin\Release\CARuleAnalysis.pdb
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\bin\Release\CARuleAnalysis.xml
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\bin\Release\CARuleAnalysis.exe.CodeAnalysisLog.xml
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\CARuleAnalysis.exe
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\CARuleAnalysis.xml
+C:\1 OfficeWork\Dev Bench\2013\CARuleAnalysis\CARuleAnalysis\obj\x86\Release\CARuleAnalysis.pdb
